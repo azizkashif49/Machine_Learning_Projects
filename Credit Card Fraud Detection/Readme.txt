@@ -14,3 +14,5 @@ Imbalance can be dealt with by properly using some methods which we will talk ab
 For protecting the privacy of the user the dimensionality of the data can be reduced.
 A more trustworthy source must be taken which double-check the data, at least for training the model.
 We can make the model simple and interpretable so that when the scammer adapts to it with just some tweaks we can have a new model up and running to deploy.
+======================================+++++++++++++++++++++++++=========================
+Data set link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download ======================================++++++++++++++++++++++++++========================
