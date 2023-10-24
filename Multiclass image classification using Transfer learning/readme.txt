@@ -16,3 +16,4 @@ InceptionResNetV2: InceptionResNetV2 is a convolutional neural network that is 1
 ==>Test dataset (test.zip ): contains 10,357 images which we have to classify into the respective categories or labels.
 ==>labels.csv: contains breed names corresponding to the image ID.
 ==>sample_submission.csv: contains the correct form of sample submission to be made
+...
